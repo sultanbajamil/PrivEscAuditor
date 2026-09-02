@@ -1,0 +1,3 @@
+﻿# No dependencies required for CLI mode (uses only Python Standard Library)
+# Install below only if you want to run the web dashboard:
+flask>=3.0.0

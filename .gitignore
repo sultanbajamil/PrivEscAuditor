@@ -1,10 +1,12 @@
-﻿__pycache__/
+﻿# PrivEscAuditor .gitignore
+__pycache__/
 *.py[cod]
 .venv/
 venv/
 env/
 report.html
 report.json
+*.log
 .vscode/
 .idea/
 .DS_Store
